@@ -95,7 +95,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <mainClass>
-                        com.mmd.itoeknx.zipkin.ZipkinApplication
+                        com.mmd.itokenx.zipkin.ZipkinApplication
                     </mainClass>
                 </configuration>
             </plugin>
